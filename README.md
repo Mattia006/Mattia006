@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mattia006
 - 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... Programmig
+- 🌱 I’m currently learning ... Programmazione
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
